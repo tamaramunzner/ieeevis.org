@@ -259,16 +259,16 @@ permalink: /year/2017/info/committees/conference-committee
       <th>&nbsp;</th>
     </tr>
     <tr>
+         <td>Katerina Vrotsou</td>
+         <td>Linköping University (VAST)</td>
+    </tr>
+    <tr>
       <td>Zhicheng Leo Liu</td>
-      <td>Adobe Systems (VAST)</td>
+      <td>Adobe Systems (InfoVis)</td>
     </tr>
     <tr>
       <td>Hanqi Guo</td>
       <td>Argonne National Laboratory (SciVis)</td>
-    </tr>
-    <tr>
-      <td>Katerina Vrotsou</td>
-      <td>Linköping University (InfoVis)</td>
     </tr>
     <tr class='committee_section'>
       <th colspan='2'>Meetup Chairs</th>
@@ -292,15 +292,15 @@ permalink: /year/2017/info/committees/conference-committee
     </tr>
     <tr>
       <td>Anastasia Bezerianos</td>
-      <td>Inria</td>
+      <td>Inria (InfoVis)</td>
     </tr>
     <tr>
       <td>Jonathan Woodring</td>
-      <td>Los Alamos National Laboratory</td>
+      <td>Los Alamos National Laboratory (SciVis)</td>
     </tr>
     <tr>
       <td>Eugene Zhang</td>
-      <td>Oregon State University</td>
+      <td>Oregon State University (SciVis)</td>
     </tr>
     <tr class='committee_section'>
       <th colspan='2'>Student Volunteers Chairs</th>
