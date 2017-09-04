@@ -10,7 +10,7 @@ Papers are selected for each of the three conferences (VAST, InfoVis and SciVis)
 
 The decisions are based on objective measures such as the numbers of citations, and more subjective ones such as the quality and longevity and influence of ideas, outreach, uptake and effect not only in the research community, but also within application domains and visualization practice.
 
-A full rationale will be provided for each paper at the conference opening, where we hope to encourage researchers to aim to produce work that is forward looking and has transformational potential. We're trying to build on our heritage to establish an ambitious future by making it clear at the outset of the conference opening that we want participants to aspire to be writing papers today that will be relevant in decades to come.
+We hope to encourage researchers to aim to produce work that is forward looking and has transformational potential. We're building on our heritage to establish an ambitious future by making it clear at the outset of the conference that we want participants to aspire to be writing papers today that will be relevant in decades to come.
 
 ## VAST 2007
 
@@ -58,7 +58,7 @@ Authors: Delmarcelle, T.; Hesselink, L.<br>
 <!--- Vis 1992 --->
 <br/>
 
-Visualization of second order tensor fields has a wide range of applications in various scientific disciplines. It is a difficult problem however because multiple scalar values are involved at each data point which define unsymmetric real and complex functions. In this paper, the authors presented the first method that are not relying on discrete iconic techniques, but instead decomposing the tensor field into simultaneous visualization of a real and symmetric second order tensor field and a real vector field.  The authors introduced the concept of hyperstreamline which is still frequently referenced to date. The SciVis test of time award committee selected this paper as the 1990-1992 SciVis Test of Time award winner based on its originality, the importance, and the long term impact to the application areas. 
+Visualization of second order tensor fields has a wide range of applications in various scientific disciplines. It is a difficult problem however because multiple scalar values are involved at each data point which define unsymmetric real and complex functions. In this paper, the authors presented the first method that are not relying on discrete iconic techniques, but instead decomposing the tensor field into simultaneous visualization of a real and symmetric second order tensor field and a real vector field.  The authors introduced the concept of hyperstreamline which is still frequently referenced to date. The SciVis Test of Time Award Committee selected this paper as the 1990-1992 SciVis Test of Time award winner based on its originality, the importance, and the long term impact to the application areas. 
 
 ## SciVis 2002
 
@@ -69,5 +69,5 @@ Authors: Pascucci, V.; Cole-McLaughlin, K<br>
 <!--- Vis 2002 --->
 <br/>
 
-Using Topological approaches to analyze level sets from scalar field has been an important branch of methods in the SciVis community. While the theories of contour trees had been known prior to this paper, efficient and robust computation of contour trees and other topological features from a discrete data set has been a challenge. In this paper, the authors provided a detailed account of the implementation of contour tree computation. The improved efficiency and the enhanced feature namely the Betti number makes the topological approach more practical and accessible to the scientific community.  Considering the citation counts, the importance of the work, and the potential impact to the application areas, the SciVis test of time award committee selected this paper as the 2002 SciVis Test of Time award winner.
+Using topological approaches to analyze level sets from scalar field has been an important branch of methods in the SciVis community. While the theories of contour trees had been known prior to this paper, efficient and robust computation of contour trees and other topological features from a discrete data set has been a challenge. In this paper, the authors provided a detailed account of the implementation of contour tree computation. The improved efficiency and the enhanced feature namely the Betti number makes the topological approach more practical and accessible to the scientific community.  Considering the citation counts, the importance of the work, and the potential impact to the application areas, the SciVis Test of Time Award Committee selected this paper as the 2002 SciVis Test of Time award winner.
 
