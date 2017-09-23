@@ -4,13 +4,15 @@ title: Welcome
 ---
 Please note in your planning that Arizona does not participate in daylight savings time. Arizona is always on Mountain Standard Time (during VIS that is the same time as California).
 
-**Quick links**
+**News**
 
-Now available: [full program PDF](http://ieeevis.org/attachments/vis17-program-final.pdf), [pocket program PDF](http://ieeevis.org/attachments/vis17-badgeinsert.pdf). 
+* Programs available: [full program PDF](http://ieeevis.org/attachments/vis17-program-final.pdf), [pocket program PDF](http://ieeevis.org/attachments/vis17-badgeinsert.pdf). 
 
-New this year: [practitioner's guide](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/pg) with recommendations for specific groups: [data journalists](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/data-journalists), [human factors](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/human-factors), [biology and medicine](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/biology-medicine), [data science and machine learning](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/machine-learning), in addition to [all practitioners](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/all-practitioners).
+* New this year: [Practitioner's guide](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/pg) with recommendations for specific groups: [data journalists](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/data-journalists), [human factors](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/human-factors), [biology and medicine](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/biology-medicine), [data science and machine learning](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/machine-learning), in addition to [all practitioners](http://ieeevis.org/year/2017/info/overview-amp-topics/practitioner-guide/all-practitioners).
 
-Register for the [conference](http://ieeevis.org/year/2017/info/registration/conference-registration), and [book your hotel](https://aws.passkey.com/event/15934070/owner/2336/home) within our conference block.
+* Register for the [conference](http://ieeevis.org/year/2017/info/registration/conference-registration), and [book your hotel](https://aws.passkey.com/event/15934070/owner/2336/home) within our conference block.
+
+* Note that Arizona does not observe daylight savings time. Phoenix is on Mountain Standard Time (MST), the same as Pacific Daylight Time (PDT) in California.
 
 Welcome to **IEEE VIS 2017**!
 
