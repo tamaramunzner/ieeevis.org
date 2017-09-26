@@ -11,7 +11,7 @@ permalink: /year/2017/info/overview-amp-topics/future-locations
 General Chair: Holger Theisel, *University of Magdeburg*
 
 ## VIS 2019
-**October 19-25, 2019, Vancouver (Canada)** *(Dates tentative, will be confirmed after venue contract signed.)* 
+**October 20-25, 2019, Vancouver (Canada)** *(Dates tentative, will be confirmed after venue contract signed.)* 
 
 General Chair: Brian Fisher, *Simon Fraser University*
 
